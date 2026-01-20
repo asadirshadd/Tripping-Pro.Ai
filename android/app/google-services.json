@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "238757770267",
+    "project_id": "trippingproai",
+    "storage_bucket": "trippingproai.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238757770267:android:512e9b96f64280c60734be",
+        "android_client_info": {
+          "package_name": "com.tripping_pro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbvY2bSwK5gq7jjnc9KNxV1CSFOvVon-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,4 @@
+// Replace these with your actual API keys
+export const OPENAI_API_KEY = "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"
+export const FLIGHT_API_KEY = "566004c1f0msh45d2953ba9e07bfp1ec911jsn27f497c7c661"
+export const BOOKING_API_KEY = "566004c1f0msh45d2953ba9e07bfp1ec911jsn27f497c7c661"
